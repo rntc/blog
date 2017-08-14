@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;blog&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../git-hub" />
+      <root url="file://$PROJECT_DIR$/../protocbuf" />
+      <root url="file://$PROJECT_DIR$/../webapp" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../apptest" />
+      <root url="file://$PROJECT_DIR$/../mygolangapp-1" />
+      <root url="file://$PROJECT_DIR$/../networking" />
+      <root url="file://$PROJECT_DIR$/../WebAppGo" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq-stuff" />
+      <root url="file://$PROJECT_DIR$/../crud" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../web" />
+      <root url="file://$PROJECT_DIR$/../chat" />
+      <root url="file://$PROJECT_DIR$/../chatr" />
+      <root url="file://$PROJECT_DIR$/../pratice" />
+      <root url="file://$PROJECT_DIR$/../lca2015-master" />
+      <root url="file://$PROJECT_DIR$/../ps-starter" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../git-hub" />
+      <root url="file://$PROJECT_DIR$/../protocbuf" />
+      <root url="file://$PROJECT_DIR$/../webapp" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../apptest" />
+      <root url="file://$PROJECT_DIR$/../mygolangapp-1" />
+      <root url="file://$PROJECT_DIR$/../networking" />
+      <root url="file://$PROJECT_DIR$/../WebAppGo" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq-stuff" />
+      <root url="file://$PROJECT_DIR$/../crud" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../web" />
+      <root url="file://$PROJECT_DIR$/../chat" />
+      <root url="file://$PROJECT_DIR$/../chatr" />
+      <root url="file://$PROJECT_DIR$/../pratice" />
+      <root url="file://$PROJECT_DIR$/../lca2015-master" />
+      <root url="file://$PROJECT_DIR$/../ps-starter" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
